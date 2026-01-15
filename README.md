@@ -1,7 +1,7 @@
 <h1>V-DRAFT</h1>
 
 <h2>Description</h2>
-V-Draft is a drafting tool which uses Access database tables produced by Etabs Structural Design Software as the inputs and automates drafting of the RCC beam rebar details in AutoCAD. The Software is coded in Python Language. The graphic user interface is designed in Tkinter Designer using Figma tool. The code uses python libraries like pyautocad for automationg the commands of AutoCAD, Pandas for Data Analysis & manipulation, pyodbc for importing Access tables, Tkinter for graphic user interface and math for mathematical operations.  
+V-Draft is a drafting tool which uses Access database tables produced by Etabs Structural Design Software as the inputs and automates drafting of the RCC beam rebar details in AutoCAD. The Software is coded in Python Language. The graphic user interface is designed in Tkinter Designer using Figma tool. The code uses python libraries like pyautocad for automating the commands of AutoCAD, Pandas for Data Analysis & manipulation, pyodbc for importing Access tables, Tkinter for graphic user interface and math for mathematical operations. 
 <br />
 
 <h2>Programming Languages Used</h2>
