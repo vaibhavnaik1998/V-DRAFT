@@ -24,7 +24,7 @@ Select the Access Database file & detailing requiremnts: <br/>
 <br />
 <br />
 Select the Required Floor:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-15-5204c7f3-e241-4e5b-971b-bbb5f66ae681.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Open the Template AutoCAD file and hit DRAFT button:  <br/>
