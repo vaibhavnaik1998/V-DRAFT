@@ -12,11 +12,11 @@ V-Draft is a drafting tool which uses Access database tables produced by Etabs S
 
 <p align="center">
 Exporting Etabs results as MS Access Database: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-15-698a3fbd-c629-4e2f-92a2-fb9f95cd970d.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Run the Application to open this GUI:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-15-c451054b-c65b-4449-aca1-a232f9504d4e.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the Access Database file & detailing requiremnts: <br/>
