@@ -1,20 +1,12 @@
 <h1>V-DRAFT</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+V-Draft is a drafting tool which uses Access database tables produced by Etabs Structural Design Software as the inputs and automates drafting of the RCC beam rebar details in AutoCAD. The Software is coded in Python Language. The graphic user interface is designed in Tkinter Designer using Figma tool. The code uses python libraries like pyautocad for automationg the commands of AutoCAD, Pandas for Data Analysis & manipulation, pyodbc for importing Access tables, Tkinter for graphic user interface and math for mathematical operations.  
 <br />
 
+<h2>Programming Languages Used</h2>
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>Python</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -30,7 +22,7 @@ Select the disk:  <br/>
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+<br />imaril
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
