@@ -20,24 +20,20 @@ Run the Application to open this GUI:  <br/>
 <br />
 <br />
 Select the Access Database file & detailing requiremnts: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-16-f043cea1-5bc4-4fb4-9116-ebbdf1d670ba.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the Required Floor:  <br/>
+Select the Required Floor and hit START DRAFT button keeping template AutoCAD file open:  <br/>
 <img src="https://cdn.phototourl.com/uploads/2026-01-15-5204c7f3-e241-4e5b-971b-bbb5f66ae681.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Open the Template AutoCAD file and hit DRAFT button:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Here's the Drafting Result in the AutoCAD file:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-16-2605edf1-74e2-4a84-925b-7b509ceea8dd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-16-ea90dd2a-ffbc-4d17-b2a5-bc3981feeebe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-16-2382e1a9-c2e5-4189-a720-c63719a303c9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-16-5639405f-a1fd-4223-b19c-64175ee57217.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.phototourl.com/uploads/2026-01-16-67edee42-917c-4a49-baf9-573dc60e6fd6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
